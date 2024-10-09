@@ -8,6 +8,8 @@ Clean and filter google sheet pages and get item that need to be ordered into a 
 Requirement:
 
 - Python 3.10.7
+- Google Service account (creds json)
+- Google Sheet shared to Service account
 
 
 
