@@ -11,6 +11,7 @@ Requirement:
 - Google Service account (creds json)
 - Google Sheet shared to Service account
 
+*Google Creds file need to be same directory with the script
 
 
 
